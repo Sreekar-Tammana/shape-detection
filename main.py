@@ -1,1 +1,1 @@
-print("Hello shape detector")
+print("Hello shape detector project")
