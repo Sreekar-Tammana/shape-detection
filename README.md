@@ -50,3 +50,11 @@ This opens up your webcam or locally connected your phone camera, then place obj
 - Create interface for easy usage
 - Deploy application
 - Write a blog on how to build
+
+## 👨‍💻 Author
+
+### 👤 Sreekar Tammana
+- LinkedIn: [@Sreekar Tammana](https://www.linkedin.com/in/sreekar-tammana)
+- Github: [@Sreekar-Tammana](https://github.com/Sreekar-Tammana)
+- Hashnode: [@sreekartammana](https://hashnode.com/@sreekartammana)
+- Twitter: [@Sreekartammana](https://twitter.com/Sreekartammana)
