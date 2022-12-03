@@ -45,3 +45,8 @@ This opens up your webcam or locally connected your phone camera, then place obj
 ## 💻 Built with
 - [Python](https://python.org/)
 - [OpenCV](https://opencv.org/releases/)
+
+## 🌈 Future Work
+- Create interface for easy usage
+- Deploy application
+- Write a blog on how to build
