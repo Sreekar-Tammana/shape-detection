@@ -49,7 +49,7 @@ This opens up your webcam or locally connected your phone camera, then place obj
 ## 🌈 Future Work
 - Create interface for easy usage
 - Deploy application
-- Write a blog on how to build
+- Write a blog about project
 
 ## 👨‍💻 Author
 
